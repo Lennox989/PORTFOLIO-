@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lennox | Video Editor & Thumbnail Designer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #2563eb;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 10px;
+            font-size: 2.2em;
+        }
+        h2 {
+            color: #1e40af;
+            margin-top: 25px;
+            font-size: 1.5em;
+        }
+        h3 {
+            color: #1e3a8a;
+            margin-top: 20px;
+        }
+        a {
+            color: #3b82f6;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .highlight-box {
+            background-color: #eff6ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #2563eb;
+        }
+        .tagline {
+            font-style: italic;
+            text-align: center;
+            margin-top: 30px;
+            color: #64748b;
+            font-size: 1.1em;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        .emoji {
+            font-size: 1.2em;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎬 Lennox | Video Editor & Thumbnail Designer</h1>
+    <p><strong>✨ Specializing in High-Engagement Content for Creators & Brands</strong></p>
+    
+    <div class="contact-info">
+        <p><span class="emoji">📧</span> <strong>Email:</strong> <a href="mailto:lennoxle898@gmail.com">lennoxle898@gmail.com</a></p>
+        <p><span class="emoji">📂</span> <strong>Portfolio:</strong> <a href="https://www.instagram.com/lennox_arts1/">Instagram @lennox_arts1</a></p>
+    </div>
+    
+    <h2>🌟 Portfolio Highlights</h2>
+    
+    <h3>🎥 Video Editing Showcase</h3>
+    <ul>
+        <li><span class="emoji">⚡</span> <a href="https://www.instagram.com/reel/C9UiqRvvw9l/">Fast-Paced Montage</a> – Dynamic cuts & seamless transitions</li>
+        <li><span class="emoji">🎞️</span> <a href="https://www.instagram.com/reel/DBgsaZUtoSS/">Cinematic Edit</a> – Story-driven pacing & visual polish</li>
+        <li><span class="emoji">📱</span> <a href="https://www.instagram.com/reel/DCRS-n0MkPa/">Short-Form Content</a> – Optimized for Instagram/TikTok engagement</li>
+        <li><span class="emoji">💥</span> <a href="https://www.instagram.com/reel/DDHcY0fTO29/">Action-Paced Sequence</a> – Syncs motion to music for maximum impact</li>
+        <li><span class="emoji">🖋️</span> <a href="https://www.instagram.com/reel/DEEgX-oSllQ/">Text Animation Demo</a> – Clean typography integration</li>
+    </ul>
+    
+    <h3>🖼️ Thumbnail Design Gallery</h3>
+    <p><a href="https://drive.google.com/drive/folders/1bFeeMuSHwCmnVCgN6LZoA8RG3wlIuWEf">📂 View Full Portfolio</a></p>
+    <ul>
+        <li>🎨 High-contrast, click-worthy designs</li>
+        <li>✏️ Custom illustrations & branding</li>
+        <li>📊 A/B tested for CTR optimization</li>
+    </ul>
+    
+    <h2>🛠️ Services</h2>
+    
+    <h3>✂️ Video Editing</h3>
+    <ul>
+        <li>🎯 YouTube, TikTok, & Instagram-optimized cuts</li>
+        <li>🔄 Smooth transitions & pacing for retention</li>
+        <li>🎨 Color grading & basic VFX</li>
+        <li>⏱️ Fast turnaround (24-48 hrs for short-form)</li>
+    </ul>
+    
+    <h3>🎨 Thumbnail Design</h3>
+    <ul>
+        <li>🔥 Bold, platform-specific visuals</li>
+        <li>✨ Custom logos/text treatments</li>
+        <li>📈 Proven CTR improvement strategies</li>
+    </ul>
+    
+    <h2>🧰 Technical Toolkit</h2>
+    <p><strong>🎬 Editing:</strong> CapCut | Alight Motion (Mobile Pro Workflows)</p>
+    <p><strong>💻 Design:</strong> Canva Pro (Advanced Thumbnail Templates)</p>
+    <p><strong>📈 Analytics:</strong> Basic YouTube CTR & Retention Analysis</p>
+    
+    <div class="highlight-box">
+        <h2>🤝 Why Work With Me?</h2>
+        <p>✅ <strong>📱 Platform Expertise</strong> – Edits tailored for YouTube, IG Reels, and TikTok algorithms</p>
+        <p>✅ <strong>⏳ Retention-Focused</strong> – Strategic pacing to keep viewers engaged</p>
+        <p>✅ <strong>🖌️ Brand Consistency</strong> – Thumbnails that reinforce your visual identity</p>
+        <p>✅ <strong>⏱️ Reliable Deadlines</strong> – Quick revisions & clear communication</p>
+    </div>
+    
+    <h2>📩 Get in Touch</h2>
+    <p><span class="emoji">📧</span> <strong>Email:</strong> <a href="mailto:lennoxle898@gmail.com">lennoxle898@gmail.com</a></p>
+    <p><span class="emoji">📱</span> <strong>Instagram:</strong> <a href="https://www.instagram.com/lennox_arts1/">@lennox_arts1</a></p>
+    
+    <p class="tagline">🎯 "Turning raw footage into scroll-stopping content."</p>
+</body>
+</html>
